@@ -1,0 +1,62 @@
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  float: left;
+}
+
+
+
+#basic-navbar-nav{
+  justify-content: end;
+}
+
+#addButton {
+  float: right;
+  margin-right: 255px;
+  border: 0.1rem #404040 solid;
+  background-color: #f0c040;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  
+}
+
+#size {
+  width: 100px;
+  margin-left: 240px;
+  margin-bottom: 20px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+#delete {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.slideshow {
+    background-color: black;
+    opacity: .6;
+    margin-top: 500px
+
+}
+
+.navbar {
+  background-color: rgb(179, 176, 176);
+}
+#color {
+  width: 130px;
+  margin-left: 220px;
+  margin-bottom: 20px;
+}
+
+#footer {
+  margin-top: 10px;
+}
